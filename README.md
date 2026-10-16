@@ -1,1 +1,1 @@
-# Adaptive-YouTube-Playback-Extension
+# AI StudyMate — Multi-Source AI Learning Assistant
